@@ -1,0 +1,10 @@
+copy "Macro\ui\Icons\*.*" to "$usericons"
+copy "Macro\Winking-xNormalToggle.mcr" to "$usermacros"
+treeCopy "*.*" to "$userscripts\xNormalTag2\"
+
+drop "install.ms"
+run "install.ms"
+
+clear temp
+clear temp on MAX exit
+clear temp on reset

@@ -1,0 +1,6 @@
+LowPolyTriKeyItem K1:1 K2:8 K3:undefined;
+LowPolyTriKeyItem K1:2 K2:9 K3:undefined;
+.
+HighPolyTriKeyItem K1:1 K2:"high01" K3:(PhsicalFileStruct fullFileName:@"D:\CodingLib\xNormal_for_max_NO\batch-xnarmal\Temp\HighPolys\HighMeshTemp1.sbm");
+HighPolyTriKeyItem K1:2 K2:"high02" K3:(PhsicalFileStruct fullFileName:@"D:\CodingLib\xNormal_for_max_NO\batch-xnarmal\Temp\HighPolys\HighMeshTemp0.sbm");
+.
