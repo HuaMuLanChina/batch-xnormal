@@ -23,10 +23,18 @@ Normal map didn't correct or no map texture file comes out?<br>
 	so clear it when you modify you model or you find normal map not correct caused by wrong low & high model setup.<br>
 4安装设置好xnormal的位置<br>
 4intall xnormal and set correct path in the plug.<br>
-5如果再高低模型列表里有选择的话并将选择的模型渲染序号大于0，将只渲染选择的这个序号的模型。没有任何选择，将全部渲染。
-5if only seletion item in the list will be rendered, no selection will render all.
+5如果再高低模型列表里有选择的话并将选择的模型渲染序号大于0，将只渲染选择的这个序号的模型。没有任何选择，将全部渲染。<br>
+5if only seletion item in the list will be rendered, no selection will render all.<br>
 </p>
 
+
+<p>
+如果你的高模在zbrush里怎么办？<br>
+这时需要把使用场景高模的选择框点掉。这时添加点击添加高模就会出现一个弹出窗口，需要指定中模和高模文件位置。<br>
+这两个位置就是zb里导出的模型位置，中模和高模名字要一样，没有中文，obj格式。<br>
+中模就是zbrush里降级后的模型，会导入到max里于低模匹配生成渲染批次。中模只是zb高模在max里的代理。<br>
+高模就是zbrush里到高模，会最终用于烘培。<br>
+</p>
 
 <p>
 如何查看排除错误？<br>
