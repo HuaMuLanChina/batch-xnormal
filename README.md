@@ -23,6 +23,8 @@ Normal map didn't correct or no map texture file comes out?<br>
 	so clear it when you modify you model or you find normal map not correct caused by wrong low & high model setup.<br>
 4安装设置好xnormal的位置<br>
 4intall xnormal and set correct path in the plug.<br>
+5如果再高低模型列表里有选择的话并将选择的模型渲染序号大于0，将只渲染选择的这个序号的模型。没有任何选择，将全部渲染。
+5if only seletion item in the list will be rendered, no selection will render all.
 </p>
 
 
