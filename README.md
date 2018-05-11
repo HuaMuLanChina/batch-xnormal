@@ -9,6 +9,12 @@ UI by Derek Jiang<br>
 </p>
 
 <p>
+软件机制<br>
+xnormal可以通过xml文件保存自己工作所需的参数。通过动态生成这个设定文件，并且用命令行调用xnormal载入动态生成的设定文件来烘培贴图。<br>
+在max里通过高低模的匹配生成多个批次的设定文件。从而一个烘培多张贴图。<br>
+</p>
+
+<p>
 没有正确烘培出来可能是哪里的问题？<br>
 Normal map didn't correct or no map texture file comes out?<br>
 </p>
