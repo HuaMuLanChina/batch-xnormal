@@ -15,8 +15,8 @@ xnormal可以通过xml文件保存自己工作所需的参数。通过动态生�
 </p>
 
 <p>
-使用方法/Tut vedio
-https://pan.baidu.com/s/1ZmDpIJ4OXkN5-CTpbqMjzA
+使用方法/Tut vedio<br>
+Basic Usage   https://pan.baidu.com/s/1ZmDpIJ4OXkN5-CTpbqMjzA<br>
 </p>
 
 <p>
