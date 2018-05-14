@@ -15,6 +15,11 @@ xnormal可以通过xml文件保存自己工作所需的参数。通过动态生�
 </p>
 
 <p>
+使用方法/Tut vedio
+https://pan.baidu.com/s/1ZmDpIJ4OXkN5-CTpbqMjzA
+</p>
+
+<p>
 没有正确烘培出来可能是哪里的问题？<br>
 Normal map didn't correct or no map texture file comes out?<br>
 </p>
